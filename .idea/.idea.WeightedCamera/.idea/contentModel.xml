@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\johan.andersson\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\johan.andersson\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WeightedCamera.-961402503.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Kraft\Unity\WeightedCamera" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CameraKraft" t="Include">
+          <e p="Editor" t="Include">
+            <e p="LevelBoundsEditor.cs" t="Include" />
+          </e>
+          <e p="Examples" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="CompleteCameraController.cs" t="Include" />
+              <e p="CompletePlayerController.cs" t="Include" />
+              <e p="CompleteRotator.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="CameraWeight.cs" t="Include" />
+            <e p="LevelCameraData.cs" t="Include" />
+            <e p="WeightedCamera.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="TutorialInfoEditor.cs" t="Include" />
+            </e>
+            <e p="TutorialInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="WeightedCamera.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
